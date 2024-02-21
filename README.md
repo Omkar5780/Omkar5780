@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  Omkar Sutar</h1>
-<h3 align="center">An Aspiring full stack web developer from Maharashtra, India</h3>
+<h3 align="center">An Aspiring front End web developer from Maharashtra, India</h3>
 
 <div ><img src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif" width="100%" height="300px"></div>
                                                                                   
