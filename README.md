@@ -10,7 +10,7 @@
 •🌱 I’m currently learning - MERN Stack <br>
 • 📫 How to reach me -  omkarsutar0106@gmail.com <br>
 • 👨‍💻 All of my projects are available at - [PORTFOLIO]() <br>
-• 📄 Know about my experiences - [RESUME]()
+• 📄 Know about my experiences - [RESUME](https://drive.google.com/file/d/1RTJt6_hfIIr4skcVuRQMu1zv9lGjVLah/view?usp=sharing)
 
 
 
