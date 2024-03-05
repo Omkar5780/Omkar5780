@@ -8,7 +8,7 @@
 
 # 💫About Me 
 •🌱 I’m currently learning - MERN Stack <br>
-• 📫 How to reach me -  omkarsutar1165@gmail.com <br>
+• 📫 How to reach me -  omkarsutar0106@gmail.com <br>
 • 👨‍💻 All of my projects are available at - [PORTFOLIO]() <br>
 • 📄 Know about my experiences - [RESUME]()
 
